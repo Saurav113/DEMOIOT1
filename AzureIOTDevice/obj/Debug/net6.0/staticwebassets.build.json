@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "66oRPEI4G8EwYvZ8mv8LV8IUjXf1Q9S5isHNIbqROgE=",
+  "Source": "AzureIOTDevice",
+  "BasePath": "_content/AzureIOTDevice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AzureIOTDevice\\wwwroot",
+      "Source": "AzureIOTDevice",
+      "ContentRoot": "C:\\Users\\vmadmin\\source\\repos\\AzureIOTDevices-master\\AzureIOTDevices-master\\AzureIOTDevice\\wwwroot\\",
+      "BasePath": "_content/AzureIOTDevice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\vmadmin\\source\\repos\\AzureIOTDevices-master\\AzureIOTDevices-master\\AzureIOTDevice\\wwwroot\\index.html",
+      "SourceId": "AzureIOTDevice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vmadmin\\source\\repos\\AzureIOTDevices-master\\AzureIOTDevices-master\\AzureIOTDevice\\wwwroot\\",
+      "BasePath": "_content/AzureIOTDevice",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

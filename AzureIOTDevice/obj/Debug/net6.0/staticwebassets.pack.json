@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vmadmin\\source\\repos\\AzureIOTDevices-master\\AzureIOTDevices-master\\AzureIOTDevice\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AzureIOTDevice.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AzureIOTDevice.props",
+      "PackagePath": "build\\AzureIOTDevice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AzureIOTDevice.props",
+      "PackagePath": "buildMultiTargeting\\AzureIOTDevice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AzureIOTDevice.props",
+      "PackagePath": "buildTransitive\\AzureIOTDevice.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
